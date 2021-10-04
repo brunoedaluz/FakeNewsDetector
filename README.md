@@ -1,5 +1,4 @@
-# FakeNewsDetector
-# Portuguese Fake News Detector
+# Portuguese Fake News Detector Using BERT
 
 This project implements a text classification that reads portuguese news and classify them in "true" or "fake". The dataset used is the Fake.Br Corpus [1], containing 3600 samples os "true" news and 3600 samples of "fake" news.
 
